@@ -17,6 +17,9 @@ http://dx.doi.org/10.1016/j.icarus.2011.10.020.
 
 Link: https://www.sciencedirect.com/science/article/abs/pii/S0019103511004131#!
 
-Note: you can see the author is careful to use the term “Glacier-Like form” rather than glacier. This is because for something to 
+Note 1: you can see the author is careful to use the term “Glacier-Like form” rather than glacier. This is because for something to 
 be a glacier it has to actually flow, and because for many of these features we are not sure the structure is currently moving 
 Glacier-Like form is a more accurate term (https://www.sciencedirect.com/science/article/abs/pii/S0019103510004069?via%3Dihub).
+
+Note 2: I am a applied math undergraduate student, not a professional programmer so I apoligize in advance for violating various design principles.
+My goal was to create functioning and useful code. 
