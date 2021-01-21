@@ -17,6 +17,12 @@ http://dx.doi.org/10.1016/j.icarus.2011.10.020.
 
 Link: https://www.sciencedirect.com/science/article/abs/pii/S0019103511004131#!
 
+The file "glaciers.py" will simply map all the glaciers found in this dataset and print out some graphs of useful statistics.
+
+The file "distance_to_glaciers.py" is in my view much more interesting. What this program does is allow you to input a pair of longitude and latitude values 
+and it will show a map of the nearest 10 glaciers on Mars, their total area, their average distance, along with other statistics. This is designed to let you
+evaluate a particular landing site based on the number of glaciers nearby.
+
 Note 1: you can see the author is careful to use the term “Glacier-Like form” rather than glacier. This is because for something to 
 be a glacier it has to actually flow, and because for many of these features we are not sure the structure is currently moving 
 Glacier-Like form is a more accurate term (https://www.sciencedirect.com/science/article/abs/pii/S0019103510004069?via%3Dihub).
